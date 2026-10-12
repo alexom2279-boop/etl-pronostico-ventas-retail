@@ -14,7 +14,7 @@
 |---|---|---|
 | Gustavo Adolfo Buelvas Macea | [código] | [@usuario] |
 | Alberto Fontalvo Pineda | [código] | [@usuario] |
-| Alexander Ortega Muñoz | 22615802 | https://github.com/alexom2279-boop⁠ |
+| Alexander Ortega Muñoz | 22615802 | [https://github.com/alexom2279-boop⁠](https://github.com/alexom2279-boop⁠￼) |
 
 ## Tabla de contenido
 
